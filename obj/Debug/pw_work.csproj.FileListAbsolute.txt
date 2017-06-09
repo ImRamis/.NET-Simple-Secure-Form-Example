@@ -1,0 +1,17 @@
+c:\users\aimash\documents\visual studio 2015\Projects\pw_work\pw_work\bin\Debug\pw_work.exe.config
+c:\users\aimash\documents\visual studio 2015\Projects\pw_work\pw_work\bin\Debug\pw_work.exe
+c:\users\aimash\documents\visual studio 2015\Projects\pw_work\pw_work\bin\Debug\pw_work.pdb
+c:\users\aimash\documents\visual studio 2015\Projects\pw_work\pw_work\obj\Debug\pw_work.csprojResolveAssemblyReference.cache
+c:\users\aimash\documents\visual studio 2015\Projects\pw_work\pw_work\obj\Debug\pw_work.Form1.resources
+c:\users\aimash\documents\visual studio 2015\Projects\pw_work\pw_work\obj\Debug\pw_work.Properties.Resources.resources
+c:\users\aimash\documents\visual studio 2015\Projects\pw_work\pw_work\obj\Debug\pw_work.csproj.GenerateResource.Cache
+c:\users\aimash\documents\visual studio 2015\Projects\pw_work\pw_work\obj\Debug\pw_work.exe
+c:\users\aimash\documents\visual studio 2015\Projects\pw_work\pw_work\obj\Debug\pw_work.pdb
+c:\users\aimash\documents\visual studio 2015\Projects\pw_work\pw_work\bin\Debug\System.Net.Http.dll
+c:\users\aimash\documents\visual studio 2015\Projects\pw_work\pw_work\bin\Debug\System.Net.Http.xml
+C:\Users\aimash\Documents\Visual Studio 2015\Projects\pw_work\pw_work\bin\Debug\DotLiquid.dll
+C:\Users\aimash\Documents\Visual Studio 2015\Projects\pw_work\pw_work\bin\Debug\ServiceStack.Text.dll
+C:\Users\aimash\Documents\Visual Studio 2015\Projects\pw_work\pw_work\bin\Debug\System.Reactive.dll
+C:\Users\aimash\Documents\Visual Studio 2015\Projects\pw_work\pw_work\bin\Debug\ServiceStack.Text.xml
+C:\Users\aimash\Documents\Visual Studio 2015\Projects\pw_work\pw_work\bin\Debug\System.Reactive.xml
+C:\Users\aimash\Documents\Visual Studio 2015\Projects\pw_work\pw_work\bin\Debug\it\DotLiquid.resources.dll

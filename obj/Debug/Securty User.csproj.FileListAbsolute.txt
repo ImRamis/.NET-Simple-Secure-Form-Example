@@ -1,0 +1,9 @@
+C:\Users\aimash\Desktop\Documents\Visual Studio 2015\Projects\pw_work\pw_work\bin\Debug\pw_work.exe.config
+C:\Users\aimash\Desktop\Documents\Visual Studio 2015\Projects\pw_work\pw_work\bin\Debug\pw_work.exe
+C:\Users\aimash\Desktop\Documents\Visual Studio 2015\Projects\pw_work\pw_work\bin\Debug\pw_work.pdb
+C:\Users\aimash\Desktop\Documents\Visual Studio 2015\Projects\pw_work\pw_work\obj\Debug\Securty User.csprojResolveAssemblyReference.cache
+C:\Users\aimash\Desktop\Documents\Visual Studio 2015\Projects\pw_work\pw_work\obj\Debug\pw_work.Form1.resources
+C:\Users\aimash\Desktop\Documents\Visual Studio 2015\Projects\pw_work\pw_work\obj\Debug\pw_work.Properties.Resources.resources
+C:\Users\aimash\Desktop\Documents\Visual Studio 2015\Projects\pw_work\pw_work\obj\Debug\Securty User.csproj.GenerateResource.Cache
+C:\Users\aimash\Desktop\Documents\Visual Studio 2015\Projects\pw_work\pw_work\obj\Debug\pw_work.exe
+C:\Users\aimash\Desktop\Documents\Visual Studio 2015\Projects\pw_work\pw_work\obj\Debug\pw_work.pdb
